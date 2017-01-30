@@ -21,8 +21,8 @@ var bodyParser = require('body-parser'); // parser for post requests
 var watson = require('watson-developer-cloud');
 
 var conversation = watson.conversation({
-  username: process.env.CONVERSATION_USERNAME,
-  password: process.env.CONVERSATION_PASSWORD,
+  username: '566d0bfb-e801-40ec-bd01-e8fd013a8b7d',
+  password: 'DSGkwQnRYLmX',
   version: 'v1',
   version_date: '2016-09-20'
 });
