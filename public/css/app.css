@@ -44,7 +44,7 @@ div {
 }
 
 #contentParent {
-  height: 100%;
+  height: 90%;
 }
 
 .responsive-columns-wrapper {
@@ -68,7 +68,7 @@ div {
 }
 
 .chat-column {
-  height: 100%;
+  height: 90%;
   padding: 0.9375rem 0 0.625rem 0;
   margin: auto;
   text-align: left;
@@ -254,9 +254,9 @@ input:-moz-placeholder {
   color: #fff;
   overflow-x: auto;
 
-  width: 45%;
+  width: 25%;
   max-width: 32.0625rem;
-  min-width: 29.6875rem;
+  min-width: 9.6875rem;
 }
 
 #payload-column.full {
